@@ -18,7 +18,8 @@ nav {
   gap: 0.5rem;
   border-bottom: solid 1px #aaa;
   background-color: #eee;
-}
+  font-family:'Courier New', Courier, monospace;
+} 
 
 nav a {
   display: inline-block;
