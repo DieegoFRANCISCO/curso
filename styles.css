@@ -42,7 +42,7 @@ main {
 }
 
 h1 { 
-  text-align: center;
+  text-align: top;
   color :rgb(15, 15, 15);
   font-weight: fantasy;
   font-size: 6rem;
