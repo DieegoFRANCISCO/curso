@@ -34,7 +34,7 @@ nav a {
 
 nav a[aria-current='page'] {
   color: #f5f104;
-  background-color: hsl(0, 0%, 71%)
+  background-color
 }
 
 main {
