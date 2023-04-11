@@ -4,9 +4,9 @@
 
 body {
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: black;
-  background-color: rgb(8, 8, 8);
+  background-color: rgb(61, 61, 50);
 }
 
 nav {
