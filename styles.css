@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family:'Alex Brush';font-size: 22px;
+  font-family: 'Alex Brush';font-size: 22px;
 
   color: black;
   background-color: rgb(61, 61, 50);
@@ -47,13 +47,12 @@ h1 {
   text-align: center;
   text-transform: uppercase;
   color :rgb(240, 229, 229);
-  font-weight: fantasy;
+  font-weight: cursive;
   font-size: 3rem;
 }
 
 h2 { 
   color :antiquewhite;
-  font-weigh: "Alex Brush";font-size: 22px;
-
+  font-weight: fantasy papyrus;
   font-size: 1.5rem;
 }
