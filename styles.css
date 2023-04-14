@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family: brush Script MT, arial, sans-serif;
   color: black;
   background-color: rgb(5, 5, 5);
 }
@@ -46,7 +46,7 @@ h1 {
   text-align:center;
   text-transform: uppercase;
   color :rgb(236, 225, 225);
-  font-weight:calc(cursive)
+  font-weight: fantasy;
   font-size: 3rem;
 }
 
