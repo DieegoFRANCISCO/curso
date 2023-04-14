@@ -28,7 +28,7 @@ nav a {
   border-radius: 0.2rem;
   border:#f5f104
   text-align: center;
-  text-decoration:backdrop;
+  text-decoration::backdrop;
   color: #2c09ee;
 }
 
