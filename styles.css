@@ -43,7 +43,7 @@ main {
 
 h1 { 
   margin-top: 0dvb;
-  text-align:calc(50)
+  text-align:justify
   text-transform: uppercase;
   color :rgb(236, 225, 225);
   font-weight: fantasy;
