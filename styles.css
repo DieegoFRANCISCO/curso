@@ -12,7 +12,7 @@ body {
 nav {
   display: flex;
   flex-wrap: wrap;
-  align-items:var(0.5rem)
+  align-items:self-end
   justify-content
   padding:0cap
   gap:0cap
