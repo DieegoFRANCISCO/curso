@@ -15,7 +15,7 @@ nav {
   align-items: center;
   justify-content:space-between;
   padding:0cap
-  gap: 0.7rem;
+  gap:0cap
   border-bottom: solid rgb(241, 241, 248) 5px;
   background-color: hsl(0, 0%, 71%)
   font-family:black;
