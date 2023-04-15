@@ -61,6 +61,11 @@ p {
   font-size:2rem;
 } 
 
-img {
-   animation:cubic-bezier(0.075, 0.82, 0.165, 1);
+image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
 }
