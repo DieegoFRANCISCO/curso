@@ -61,11 +61,10 @@ p {
   font-size:2rem;
 } 
 
-image {
-  opacity: 1;
-  display: block;
+ img {
   width: 100%;
   height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
+  opacity: 1.0;
+}
+   
 }
