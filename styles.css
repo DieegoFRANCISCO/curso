@@ -17,7 +17,7 @@ nav {
   padding: 0.5rem;
   gap: 0.5rem;
   border-bottom: solid rgb(104, 104, 129) 5px;
-  background-color:rgb(236, 225, 225)
+  background-color:rgb(236, 225, 225);
   font-family:black;
 } 
 
@@ -45,7 +45,7 @@ h1 {
   margin:0vmin;
   text-align:unset;
   text-transform::-webkit-search-decoration;
-  color :rgb(236, 225, 225);
+  color ::-webkit-search-results-button
   font-weight: fantasy;
   font-size: 8rem;
 }
