@@ -27,9 +27,6 @@ nav a {
   padding: 0.5rem;
   border-radius: 0.2rem;
   border:#f5f104
-  text-align:#f5f104
-  text-decoration::backdrop
-  color: #2c09ee;
 }
 
 nav a[aria-current='page'] {
