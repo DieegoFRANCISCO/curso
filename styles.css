@@ -42,7 +42,7 @@ main {
 }
 
 h1 { 
-  margin: top;
+  margin:0vmin;
   text-align:center;
   text-transform::-webkit-search-decoration;
   color :rgb(236, 225, 225);
