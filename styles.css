@@ -61,6 +61,12 @@ p {
   font-size:2rem;
 } 
 
-img {
-   
+img { width: 100%;
+  height: auto;
+  opacity: 1.0;
 }
+.container {
+  position: absolute;
+}
+   
+
