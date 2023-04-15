@@ -62,5 +62,5 @@ p {
 } 
 
 img {
-  mix-blend-mode: luminosity;
+  mix-blend-mode:hard-light;
 }
