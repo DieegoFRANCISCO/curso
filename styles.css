@@ -62,5 +62,5 @@ p {
 } 
 
 img {
-  list-style: circle;
+  animation-iteration-count: infinite;
 }
