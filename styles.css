@@ -62,5 +62,5 @@ p {
 } 
 
 img {
-  animation-iteration-count: infinite;
+  animation:alternate;
 }
