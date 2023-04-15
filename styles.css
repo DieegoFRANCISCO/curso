@@ -60,7 +60,6 @@ p {
 } 
 
 img { 
-    width: 100%;
-    font-style: italic;
+    width:inherit;
 }
 
