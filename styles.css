@@ -53,9 +53,8 @@ h1 {
 h2 { 
   color :rgb(182, 190, 59);
   font-weight: cursive;
-  font-size: 3rem;
+  font-size:3rem;
 }
 p {
   color:red
-  font-size: 2rem;
 }
