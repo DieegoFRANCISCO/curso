@@ -45,7 +45,7 @@ h1 {
   margin:0vmin;
   text-align:unset;
   text-transform::-webkit-search-decoration;
-  color ::-webkit-search-results-button
+  color: #f5f104;
   font-weight: fantasy;
   font-size: 8rem;
 }
