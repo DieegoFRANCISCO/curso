@@ -42,7 +42,7 @@ main {
 }
 
 h1 { 
-  margin-top: 0dvb;
+  margin: top 2px;%
   text-align:center;
   text-transform: uppercase;
   color :rgb(236, 225, 225);
