@@ -43,7 +43,7 @@ main {
 
 h1 { 
   margin:0vmin;
-  text-align:center;
+  text-align:unset;
   text-transform::-webkit-search-decoration;
   color :rgb(236, 225, 225);
   font-weight: fantasy;
