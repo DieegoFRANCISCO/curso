@@ -57,23 +57,11 @@ h2 {
 p {
   font-weight: cursive;
   font-size:2rem;
+  color:red;
 } 
 
 img { 
     width: 100%;
     
-}
-
-.classe1 {
-  background: blue;
-  font-style: normal;
+  }
   
-}
-
-.classe2 {
-  background: red;
-}
-
-.classe3 {
-  background-color: ;
-}
