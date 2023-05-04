@@ -7,8 +7,7 @@ body {
   margin: 0;
   font-family: brush Script MT, arial, sans-serif;
   color: black;
-  background-color: rgb(5, 5, 5);
-}
+  background-image: url(1000_F_564051644_ygQfTWZeBDIIbhCSwBa4TDtv3TAuBwIe.jpg);}
 
 nav {
   display: flex;
@@ -62,6 +61,5 @@ p {
 
 img { 
     width: 100%;
-    
   }
   
