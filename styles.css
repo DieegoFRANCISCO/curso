@@ -36,7 +36,7 @@ nav a {
 
 nav a[aria-current='page'] {
   color: #f5f104;
-  background-color
+  background-color;
 }
 
 main {
@@ -46,7 +46,7 @@ main {
 h1 { 
   margin:0vmin;
   text-align:unset;
-  text-transform::-webkit-search-decoration;
+  text-transform:-webkit-search-decoration;
   color: #f5f104;
   font-weight: fantasy;
   font-size: 8rem;
